@@ -3,14 +3,6 @@
 
 The weather application project built in React utilizes weather APIs to fetch real-time weather data and display it to users in a user-friendly interface. Users can input their City to get current weather information, including temperature, humidity, wind speed. The application is responsive, offering a seamless experience across various devices, and may include features like visual representations of weather data and user customization options for units and weather providers.
 
-
-## Demo
-
-https://weatherappllicaton.netlify.app/
-
-
-## API Reference
-
 #### Fetch by City Name
 ```
   https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
